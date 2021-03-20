@@ -21,7 +21,11 @@ Also using **inferential statistics**, we were able to determine that **tip prop
 - Hypothesis Testing
 
 # Technologies
-Python and associated packages such as `Pandas`, `Matplotlib`, `Seaborn`, and `SciPy`.
+- Python and associated packages such as 
+    - `Pandas` 
+    - `Matplotlib`
+    - `Seaborn`
+    - `SciPy`.
 
 # Contributors
 - Jared Thach - github/jared8thach
