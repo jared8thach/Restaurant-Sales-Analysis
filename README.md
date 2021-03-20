@@ -10,7 +10,7 @@ As a final result of our sales analysis, we were able to successfully
     - **12.5% increase in sales** for Egg Rolls
     - **4.96% increase in sales** for Chicken Skewers
 - **Adjust pricing** for rice and salad dishes in which only the **Saigon Rice Plate** saw significant positive changes such as a
-    - **\\$822.85 increase in sales**
+    - **$822.85 increase in sales**
     - **95 increase in quantity sold**
     
 Also using inferential statistics, we were able to determine that **tip proportions are significantly (p < 0.001) higher** post-COVID pandemic than pre-COVID pandemic, as intuitively expected.
