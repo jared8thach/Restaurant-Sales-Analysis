@@ -13,7 +13,7 @@ As a final result of our sales analysis, we were able to successfully
     - **$822.85 increase in sales**
     - **95 increase in quantity sold**
     
-Also using inferential statistics, we were able to determine that **tip proportions are significantly (p < 0.001) higher** post-COVID pandemic than pre-COVID pandemic, as intuitively expected.
+Also using **inferential statistics**, we were able to determine that **tip proportions are significantly (p < 0.001) higher** post-COVID pandemic than pre-COVID pandemic, as intuitively expected.
 
 # Methods Used
 - Data Cleaning
