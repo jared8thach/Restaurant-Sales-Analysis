@@ -26,7 +26,7 @@ Also using **inferential statistics**, we were able to determine that **tip prop
     - `Pandas` 
     - `Matplotlib`
     - `Seaborn`
-    - `SciPy`.
+    - `SciPy`
 
 # Contributors
 - Jared Thach - github/jared8thach
